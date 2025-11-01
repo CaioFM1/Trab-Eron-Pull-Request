@@ -10,3 +10,10 @@ valor2 = float(input("Digite o segundo valor: "))
 soma = valor1 + valor2
 
 print(f"O resultado da soma é: {soma}")
+
+# Feature: feature-mult
+x = int(input())
+y = int(input())
+
+n = x * y
+print(n) 
